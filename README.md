@@ -18,13 +18,9 @@ To run the project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/easy-learn-landing-page.git
+    git clone https://github.com/Swetha4729/Codsoft_task2/tree/main
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd easy-learn-landing-page
-    ```
-3. Open the `index.html` file in your preferred web browser.
+2. Open the `index.html` file in your preferred web browser.
 
 ## Project Structure
 
