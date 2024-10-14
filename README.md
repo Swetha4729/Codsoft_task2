@@ -24,5 +24,5 @@ To run the project locally:
     ```
 2. Open the `index.html` file in your preferred web browser.
 
-## Project Structure
+
 
