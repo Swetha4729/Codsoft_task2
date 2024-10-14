@@ -11,6 +11,8 @@ Welcome to the **Easy Learn** landing page! This project is designed as a simple
 
 - **HTML5**: For structuring the content and layout of the landing page.
 - **CSS3**: For styling, responsive design, and animations.
+- **GitHub**: Version control and hosting the repository.
+- **VS Code**: As the primary development environment.
 
 ## Installation
 
